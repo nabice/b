@@ -1,6 +1,6 @@
 package a
 
-import "github.com/nabice/golist/c"
+import "github.com/nabice/c"
 
 func main() {
 	c.DD()
